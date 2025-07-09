@@ -49,8 +49,8 @@ This project was a collaborative effort by the following members:
 | ALIYA SHEMSU          | RCD/0173/2017   | @Aliyah-SA         |
 | DAWIT FTWI            | RCD/1819/2017   | @deve1998          |
 | KALKIDAN BELETE       | RCD/0195/2017   | *Username ያስገቡ*   |
-| KALKIDAN SOLOMON      | RCD/0196/2017   | @Solomon _ kalisol |
+| KALKIDAN SOLOMON      | RCD/0196/2017   | @kalisol          |
 | NATNAEL AGIBU         | RCD/0213/2017   | *Username ያስገቡ*   |
 | SIRGUT SEREKE BIRHAN  | RCD/0925/2017   | *Username ያስገቡ*   |
-| TEMESGEN TILAHUN      | RCD/0219/2017   | *Username ያስገቡ*   |
+| TEMESGEN TILAHUN      | RCD/0219/2017   | @teme221           |
 | YOHANA TEKLU          | RCD/0226/2017   | @yohana885         |
