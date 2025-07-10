@@ -18,27 +18,6 @@ Based on the project requirements, the following features are implemented:
 
 ---------------------------------------------------
 
- 🏁 Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
- Prerequisites
-
-You will need a C++ compiler installed on your system (e.g., G++ on Linux/macOS, or MinGW on Windows).
-
- How to Compile and Run
-
-1.  Compile the code:
-    Open your terminal or command prompt and run the following command. (C:\Users\PC\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App).
-    ```sh
-    g++ main.cpp -o banking_app
-    ```
-2.  Run the application:
-    ```sh
-    ./banking_app
-    ```
-
----------------------------------------------------------------------------------
 
  👥 Group 5 Members
 
