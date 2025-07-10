@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)
 
-A console-based banking application developed in C++ by **Group 5** for a university project. This program simulates basic banking functionalities and demonstrates core programming concepts like data structures, file I/O for data persistence, and user interaction.
+A console-based banking application developed in C++ by Group 5 for a university project. This program simulates basic banking functionalities and demonstrates core programming concepts like data structures, file I/O for data persistence, and user interaction.
 
 ------------------------------------------------------
 
@@ -29,7 +29,7 @@ You will need a C++ compiler installed on your system (e.g., G++ on Linux/macOS,
  How to Compile and Run
 
 1.  Compile the code:
-    Open your terminal or command prompt and run the following command. (Replace `main.cpp` with your file's name if different).
+    Open your terminal or command prompt and run the following command. (C:\Users\PC\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App).
     ```sh
     g++ main.cpp -o banking_app
     ```
